@@ -1,0 +1,4 @@
+www.umass.cics1.com
+www.umass.cics2.com
+www.umass.cics3.com
+www.umass.cics4.com

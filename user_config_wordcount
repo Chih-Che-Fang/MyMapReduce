@@ -1,0 +1,7 @@
+appName,wordcount
+numOfMapper,2
+numOfReducer,2
+inputFile,input_wordcount/doc1.txt
+outputDir,output_wordcount
+mapperFunction,Apps.WordCountMapperFunction
+reducerFunction,Apps.WordCountReducerFunction

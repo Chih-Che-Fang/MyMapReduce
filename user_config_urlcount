@@ -1,0 +1,7 @@
+appName,urlcount
+numOfMapper,2
+numOfReducer,2
+inputFile,input_urlcount/page1.txt
+outputDir,output_urlcount
+mapperFunction,Apps.URLCountMapperFunction
+reducerFunction,Apps.URLCountReducerFunction
