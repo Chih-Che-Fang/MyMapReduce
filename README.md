@@ -1,7 +1,5 @@
 # mapreduce-Chih-Che-Fang  
-# mapreduce-Chih-Che-Fang created by GitHub Classroom  
-# Group20 Members: Chih-Che Fang, Yu-Hsien Lee, Chuu-Hsiang Hung  
-*I Aggree to share this source code with my group members
+
 
 #Enviornment: Windows + Java SDK 8 Installed  
 #Applications: WordCount, Grep, URLCount (Please refer MapReduce paper for more detail)
