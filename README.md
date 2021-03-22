@@ -9,7 +9,7 @@
 2. Perform run_test.bat on Windows OS (With JDK installed and with JDK environment variable set), and will output all the file to "output_[APP_NAME]" folder. (Ex. wordcount example will output result to output_wordcount folder, grep example will output to output_grep folder)
 3. See the testing result on console, it will tell you if the output is equal to the Spark output. Logs like:  
 
-C:\Users\user\mapreduce-Chih-Che-Fang>java -cp ".\bin" Utils.OutputComperator 2. 
+C:\Users\user\mapreduce-Chih-Che-Fang>java -cp ".\bin" Utils.OutputComperator 2.   
 Application:wordcount. 
 Testing Result: Scuccess, output files matches expected file!  
 Application:urlcount. 
